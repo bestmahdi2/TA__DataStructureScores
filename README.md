@@ -319,7 +319,7 @@
 4001406114 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
 4001406115 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
 4001406118 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
-4001406133 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
+4001406133 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
 4001406135 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
 4001406901 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
 4001406916 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!</br></br> 

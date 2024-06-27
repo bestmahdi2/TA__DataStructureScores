@@ -177,7 +177,7 @@
 4011406159 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/105-318CE7.svg"/></a> | 
 4011406160 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/110-318CE7.svg"/></a> | 
 4011406161 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/110-318CE7.svg"/></a> | 
-4011406162 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/110-318CE7.svg"/></a> | 
+4011406162 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
 4011406501 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/105-318CE7.svg"/></a> | 
 4011406502 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
 4011406505 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/105-318CE7.svg"/></a> | 
@@ -374,6 +374,7 @@
  شماره دانشجویی | تاخیر | اجرا شدن | تست کیس/منو/ورودی گرفتن | binary/linear search | bubble/merge sort | selection/insertion sort | تمیزی | کامنت گذاری | نمره کل | توضیحات 
 |:-------:|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:
 |       | <a href=""><img src="https://img.shields.io/badge/Week---15-E90000.svg"/></a></br> | <a href=""><img src="https://img.shields.io/badge/+20-00D16A.svg"/></a></br>   | <a href=""><img src="https://img.shields.io/badge/+10-00D16A.svg"/></a></br> | <a href=""><img src="https://img.shields.io/badge/+20-00D16A.svg"/></a></br>   | <a href=""><img src="https://img.shields.io/badge/+20-00D16A.svg"/></a></br>   | <a href=""><img src="https://img.shields.io/badge/+20-00D16A.svg"/></a></br> | <a href=""><img src="https://img.shields.io/badge/+5-00D16A.svg"/></a></br> | <a href=""><img src="https://img.shields.io/badge/+5-00D16A.svg"/></a></br> | <a href=""><img src="https://img.shields.io/badge/100-F4CA16.svg"/></a></br> |
+4001406101 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
 4001406109 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
 4001406114 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
 4001406115 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!

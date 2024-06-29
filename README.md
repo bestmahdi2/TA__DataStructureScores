@@ -50,10 +50,10 @@
 4011406120 | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/90-318CE7.svg"/></a> | 
 4011406121 | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/85-318CE7.svg"/></a> | 
 4011406126 | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/85-318CE7.svg"/></a> | 
-4011406128 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | what is this?
+4011406128 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 4011406131 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | تکلیف فقط در گیتهاب ارسال شده است.
 4011406135 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
-4011406143 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | ارسال فایل با پسوند اشتباه! (.sln)
+4011406143 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | تکلیف فقط در گیتهاب ارسال شده است.
 4011406146 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
 4011406149 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!</br></br> 
 4011406152 | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/90-318CE7.svg"/></a> | 
@@ -103,13 +103,13 @@
 4011406115 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
 4011406116 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
 4011406117 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
-4011406120 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
+4011406120 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | تکلیف فقط در گیتهاب ارسال شده است.
 4011406121 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
-4011406126 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
-4011406128 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
+4011406126 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | تکلیف فقط در گیتهاب ارسال شده است.
+4011406128 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 4011406131 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | تکلیف فقط در گیتهاب ارسال شده است.
 4011406135 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
-4011406143 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
+4011406143 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | تکلیف فقط در گیتهاب ارسال شده است.
 4011406146 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
 4011406149 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!</br></br> 
 4011406152 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | ارسال فایل با پسوند اشتباه! (.pdf)
@@ -162,11 +162,11 @@
 4011406117 | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/30-318CE7.svg"/></a> | 
 4011406120 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 4011406121 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
-4011406126 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
-4011406128 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
+4011406126 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | تکلیف فقط در گیتهاب ارسال شده است.
+4011406128 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 4011406131 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | تکلیف فقط در گیتهاب ارسال شده است.
 4011406135 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
-4011406143 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
+4011406143 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | تکلیف فقط در گیتهاب ارسال شده است.
 4011406146 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
 4011406149 | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/35-318CE7.svg"/></a> |  
 4011406152 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
@@ -219,10 +219,10 @@
 4011406120 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 4011406121 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/90-318CE7.svg"/></a> | 
 4011406126 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/90-318CE7.svg"/></a> | 
-4011406128 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | what is 'eleman'?
+4011406128 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 4011406131 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | تکلیف فقط در گیتهاب ارسال شده است.
 4011406135 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
-4011406143 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
+4011406143 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | تکلیف فقط در گیتهاب ارسال شده است.
 4011406146 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
 4011406149 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!</br></br> 
 4011406152 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
@@ -275,11 +275,11 @@
 4011406117 | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/85-318CE7.svg"/></a> | 
 4011406120 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 4011406121 | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
-4011406126 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
-4011406128 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
+4011406126 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | تکلیف فقط در گیتهاب ارسال شده است.
+4011406128 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 4011406131 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | تکلیف فقط در گیتهاب ارسال شده است.
 4011406135 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
-4011406143 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
+4011406143 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | تکلیف فقط در گیتهاب ارسال شده است.
 4011406146 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
 4011406149 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!</br></br> 
 4011406152 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | ارسال فایل با پسوند اشتباه! (.pdf)
@@ -332,8 +332,8 @@
 4011406117 | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/85-318CE7.svg"/></a> | 
 4011406120 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 4011406121 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
-4011406126 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
-4011406128 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
+4011406126 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | تکلیف فقط در گیتهاب ارسال شده است.
+4011406128 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 4011406131 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | تکلیف فقط در گیتهاب ارسال شده است.
 4011406135 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
 4011406143 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
@@ -388,8 +388,8 @@
 4011406117 | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/70-318CE7.svg"/></a> | 
 4011406120 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | 
 4011406121 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | <a href=""><img src="https://img.shields.io/badge/95-318CE7.svg"/></a> | 
-4011406126 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
-4011406128 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
+4011406126 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | تکلیف فقط در گیتهاب ارسال شده است.
+4011406128 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | تکلیف فقط در گیتهاب ارسال شده است.
 4011406131 | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | <a href=""><img src="https://img.shields.io/badge/100-318CE7.svg"/></a> | تکلیف فقط در گیتهاب ارسال شده است.
 4011406135 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | عدم ارسال تکلیف!
 4011406143 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | <a href=""><img src="https://img.shields.io/badge/0-318CE7.svg"/></a> | ارسال فایل با پسوند اشتباه! (.jpg)
